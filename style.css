@@ -21,6 +21,7 @@
     width:200px;
     position:absolute;
     margin-left:650px;
+    text-align:center;
 }
 #skill3{
     background-color:rgba(233, 232, 232, 0.666);
@@ -28,6 +29,7 @@
     width:200px;
     position:absolute;
     margin-left:875px;
+    text-align:center;
 }
 #skill4{
     background-color:rgba(233, 232, 232, 0.666);
@@ -35,9 +37,10 @@
     width:200px;
     position:absolute;
     margin-left:1100px;
+    text-align:center;
 }
 
-#infernoBreath{
+#skillIcons{
     height:50px;
     width:50px;
     margin-bottom:10px;
