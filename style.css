@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+#body{
+    background-image:url("images/cernium.png");
+    background-repeat:no-repeat;
+    background-size:3500px;
+    background-position:center;
+}
+#menu{
+    background-color:brown;
+    height:200px;
+    width:400px;
+    position:absolute;
+}
